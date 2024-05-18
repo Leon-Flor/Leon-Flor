@@ -10,6 +10,7 @@
       alt="banner con mi foto"
     />
   </picture>
+  <br />
 
    <div align="center">
     <img
