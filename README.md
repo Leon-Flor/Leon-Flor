@@ -6,7 +6,7 @@
   </p>
   <picture>
     <img
-      src="https://github.com/Leon-Flor/Leon-Flor/blob/5d95617de16cb7213fd01aed33431564891af01c/BANNER.png?raw=true"
+      src="https://github.com/Leon-Flor/Leon-Flor/blob/main/BannerProfile.png?raw=true"
       alt="banner con mi foto"
     />
   </picture>
