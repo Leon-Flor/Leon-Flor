@@ -2,6 +2,10 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Leon-Flor.Leon-Flor" />
 </p>
 
+<picture>
+    <img src="https://github.com/Leon-Flor/Leon-Flor/blob/5d95617de16cb7213fd01aed33431564891af01c/BANNER.png?raw=true" alt="banner with my photo" />
+</picture>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;¡Soy+León+Flor!;" />
 </h1>
