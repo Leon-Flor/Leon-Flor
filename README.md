@@ -26,8 +26,8 @@
   
  ## Acerca de mí 🚀
 - Soy de Cali, Colombia 🇨🇴❤️
-- Tengo 3 años de experiencia creando soluciones web y móviles escalables. 📱💻
-- Tengo un negocio en crecimiento llamado [valejo](https://valejo.lat/ "valejo") con mi novia 🌱👩‍❤️‍👨
+- Tengo 5 años de experiencia creando soluciones de software. 💻
+- Tengo un negocio en crecimiento llamado [valejo](https://www.instagram.com/valejo_shop/ "valejo")
 - Busco desafíos para contribuir a proyectos innovadores 🌟
 - Amo aprender y siempre busco nuevos retos 💡
 
